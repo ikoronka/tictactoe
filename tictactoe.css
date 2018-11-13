@@ -1,0 +1,47 @@
+html{
+	color: transparent;
+}
+
+p{
+
+	text-align: center;
+}
+
+table{
+	margin: auto;
+}
+
+td{
+	width: 100px;
+	height: 100px;
+	text-align: center;
+	font-size: 60px;
+	font-family: monospace;
+}
+
+.vertical{
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+}
+
+.horizontal{
+	border-top: 1px solid black; 
+	border-bottom: 1px solid black; 
+}
+
+.card {
+	display: inline-block;
+}
+
+.text-large {
+	font-family: monospace;
+	font-size: 5em;
+}
+
+span {
+	display: block;
+}
+
+.text-center {
+	font-size: 2em;
+}
